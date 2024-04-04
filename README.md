@@ -20,6 +20,8 @@ El proyecto se encuentra en sus etapas finales de desarrollo. Por temas de segur
 
 ## Exportación por medio de PDF
 
+<img width="392" alt="image" src="https://github.com/QuiqueCode/DALOPCAN-Public/assets/149546547/671f839f-c095-4fdd-81b3-902dd74eed4f">
+<img width="395" alt="image" src="https://github.com/QuiqueCode/DALOPCAN-Public/assets/149546547/f34706b9-5c2b-4b3c-8189-ed186c74919f">
 
 
 
