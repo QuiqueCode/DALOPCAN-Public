@@ -20,7 +20,7 @@ El proyecto se encuentra en sus etapas finales de desarrollo. Por temas de segur
 
 ## Exportación por medio de PDF
 
-[Resumen #3 Dylan Castillo C11748 (2).pdf](https://github.com/QuiqueCode/DALOPCAN-Public/files/14877335/Resumen.3.Dylan.Castillo.C11748.2.pdf)
+
 
 
 ## Tecnologías utilizadas
