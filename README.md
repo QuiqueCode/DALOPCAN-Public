@@ -12,8 +12,6 @@ El proyecto se encuentra en sus etapas finales de desarrollo. Por temas de segur
 
 ![image](https://github.com/QuiqueCode/DALOPCAN-Public/assets/149546547/a856a555-9ca5-442e-a710-94f9de91f796)
 
-![image](https://github.com/QuiqueCode/DALOPCAN-Public/assets/149546547/2fa5dd18-3a9a-45bf-b094-97f4d57f7dfe)
-
 ![image](https://github.com/QuiqueCode/DALOPCAN-Public/assets/149546547/0d1c85b1-5754-4a11-bedd-4c5deb71a64f)
 
 ![image](https://github.com/QuiqueCode/DALOPCAN-Public/assets/149546547/e6f0e9c2-99b0-4e7e-a782-91ef092c400a)
