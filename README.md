@@ -19,4 +19,6 @@ El proyecto se encuentra en sus etapas finales de desarrollo. Por temas de segur
 ![image](https://github.com/QuiqueCode/DALOPCAN-Public/assets/149546547/e6f0e9c2-99b0-4e7e-a782-91ef092c400a)
 
 ## Tecnologías utilizadas
+[![JavaScript](https://img.shields.io/badge/build-JavaScript-JavaScript?style=for-the-badge&logo=javaScript&logoColor=white&label=%20&labelColor=black&color=%23F0DB4F&cacheSeconds=3600)]() [![React](https://img.shields.io/badge/any_React-React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white&label=%20&labelColor=black&color=%2361DAFB&cacheSeconds=3600)]() [![Material UI](https://img.shields.io/badge/build-Material%20UI-React?style=for-the-badge&logo=mui&logoColor=white&label=%20&labelColor=black&color=%2361DBFB&cacheSeconds=3600)]()
+ [![CSS3](https://img.shields.io/badge/any_css3-css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&label=%20&labelColor=black&color=%231572B6&cacheSeconds=3600)]()  [![MySQL](https://img.shields.io/badge/build-MySql-MySql?style=for-the-badge&logo=MySql&logoColor=white&label=%20&labelColor=black&color=%234479A1&cacheSeconds=3600)]() 
 
