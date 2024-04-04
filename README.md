@@ -8,18 +8,15 @@ El proyecto se encuentra en sus etapas finales de desarrollo. Por temas de segur
 
 ## Imágenes
 
-![image](https://github.com/QuiqueCode/DALOPCAN-Public/assets/149546547/b213dcc0-3acc-49e6-aa99-4d864c5a93e5)
+## Interfaz de administración
 
-![image](https://github.com/QuiqueCode/DALOPCAN-Public/assets/149546547/a856a555-9ca5-442e-a710-94f9de91f796)
+## Interfaz de médico
 
-![image](https://github.com/QuiqueCode/DALOPCAN-Public/assets/149546547/0d1c85b1-5754-4a11-bedd-4c5deb71a64f)
+## Interfaz del expediente del paciente
 
-![image](https://github.com/QuiqueCode/DALOPCAN-Public/assets/149546547/e6f0e9c2-99b0-4e7e-a782-91ef092c400a)
 
 ## Exportación por medio de PDF
 
-<img width="392" alt="image" src="https://github.com/QuiqueCode/DALOPCAN-Public/assets/149546547/671f839f-c095-4fdd-81b3-902dd74eed4f">
-<img width="395" alt="image" src="https://github.com/QuiqueCode/DALOPCAN-Public/assets/149546547/f34706b9-5c2b-4b3c-8189-ed186c74919f">
 
 
 
