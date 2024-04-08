@@ -1,24 +1,27 @@
 # DALOPCAN
 
-DALOPCAN es un proyecto creado para ayudar a los encargados de la empresa DALOPCAN a poder realizar el registro de expedientes de sus pacientes de forma digital y rápida, con el fin de tener un acceso y un manejo de la información de una manera mucho más sencilla a la que mantienen actualmente, que es el sistema antiguo de realizarlos de forma física. Este proyecto fue realizado como trabajo de TCU y en conjunto con mi compañero Diego, aquí está su perfil de GitHub: https://github.com/diegoTech14/.
+DALOPCAN es un proyecto creado para ayudar a los encargados de la empresa DALOPCAN a poder realizar el registro de expedientes de sus pacientes de forma digital, con el fin de tener un acceso y un manejo de la información de una manera mucho más sencilla a la que mantienen actualmente, el cual era realizar todos sus registros de los pacientes de forma física. Este proyecto fue realizado como trabajo de TCU y en conjunto con mi compañero Diego Duarte, aquí está su perfil de GitHub: https://github.com/diegoTech14/.
 
 ## Aclaración
 
 El proyecto se encuentra en sus etapas finales de desarrollo. Por temas de seguridad, solo se mostrará mediante imágenes el sistema. Actualmente estamos negociando poder tener permiso para subir el código del frontend del sistema a este repositorio, el cual en un futuro será actualizado por lo menos con el código del frontend.
 
-## Imágenes
-
 ## Interfaz de administración
 
-## Interfaz de médico
+![image](https://github.com/QuiqueCode/DALOPCAN-Public/assets/149546547/397a2451-32f5-4ec4-b843-f71f925151d2)
+
+
+## Interfaz del Médico
+
+<img width="1916" alt="image" src="https://github.com/QuiqueCode/DALOPCAN-Public/assets/149546547/0ebd2c72-496a-4df5-9f13-135edcb67784">
 
 ## Interfaz del expediente del paciente
 
+<img width="1919" alt="image" src="https://github.com/QuiqueCode/DALOPCAN-Public/assets/149546547/7e47b542-80de-4cf4-b97e-43c3df004006">
 
-## Exportación por medio de PDF
+<img width="1916" alt="image" src="https://github.com/QuiqueCode/DALOPCAN-Public/assets/149546547/96f88da9-5d82-49c4-9571-f5cb9a5c50e4">
 
-
-
+<img width="1352" alt="image" src="https://github.com/QuiqueCode/DALOPCAN-Public/assets/149546547/4edcb63f-63b5-4238-add4-19e9227d6f21">
 
 ## Tecnologías utilizadas
 [![JavaScript](https://img.shields.io/badge/build-JavaScript-JavaScript?style=for-the-badge&logo=javaScript&logoColor=white&label=%20&labelColor=black&color=%23F0DB4F&cacheSeconds=3600)]()[![React](https://img.shields.io/badge/any_React-React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white&label=%20&labelColor=black&color=%2361DAFB&cacheSeconds=3600)]()[![Material UI](https://img.shields.io/badge/build-Material%20UI-React?style=for-the-badge&logo=mui&logoColor=white&label=%20&labelColor=black&color=%2361DBFB&cacheSeconds=3600)]()
