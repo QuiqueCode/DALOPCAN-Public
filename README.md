@@ -17,7 +17,7 @@ El proyecto se encuentra en sus etapas finales de desarrollo. Por temas de segur
 
 ## Interfaz del expediente del paciente
 
-<img width="1919" alt="image" src="https://github.com/QuiqueCode/DALOPCAN-Public/assets/149546547/7e47b542-80de-4cf4-b97e-43c3df004006">
+<img width="1913" alt="image" src="https://github.com/QuiqueCode/DALOPCAN-Public/assets/149546547/f5cfbbdc-1c9e-49fb-9e24-b1704335dffd">
 
 <img width="1916" alt="image" src="https://github.com/QuiqueCode/DALOPCAN-Public/assets/149546547/96f88da9-5d82-49c4-9571-f5cb9a5c50e4">
 
