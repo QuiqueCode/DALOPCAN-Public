@@ -8,7 +8,8 @@ El proyecto se encuentra en sus etapas finales de desarrollo. Por temas de segur
 
 ## Interfaz de administración
 
-<img width="1916" alt="image" src="https://github.com/QuiqueCode/DALOPCAN-Public/assets/149546547/c1591e66-89ba-4fb9-9513-06ac9fa250d8">
+<img width="1915" alt="image" src="https://github.com/user-attachments/assets/0c17edf6-21fd-4909-95fd-ecdaa1047ba8" />
+
 
 ## Interfaz del Médico
 
