@@ -26,7 +26,8 @@ El proyecto se encuentra en sus etapas finales de desarrollo. Por temas de segur
 
 
 
-<img width="1352" alt="image" src="https://github.com/QuiqueCode/DALOPCAN-Public/assets/149546547/4edcb63f-63b5-4238-add4-19e9227d6f21">
+<img width="1894" alt="image" src="https://github.com/user-attachments/assets/5b77a55d-1012-48bf-94c7-ed2a621dc459" />
+
 
 ## Tecnologías utilizadas
 [![JavaScript](https://img.shields.io/badge/build-JavaScript-JavaScript?style=for-the-badge&logo=javaScript&logoColor=white&label=%20&labelColor=black&color=%23F0DB4F&cacheSeconds=3600)]()[![React](https://img.shields.io/badge/any_React-React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white&label=%20&labelColor=black&color=%2361DAFB&cacheSeconds=3600)]()[![Material UI](https://img.shields.io/badge/build-Material%20UI-React?style=for-the-badge&logo=mui&logoColor=white&label=%20&labelColor=black&color=%2361DBFB&cacheSeconds=3600)]()
