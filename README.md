@@ -21,7 +21,8 @@ El proyecto se encuentra en sus etapas finales de desarrollo. Por temas de segur
 <img width="1913" alt="image" src="https://github.com/user-attachments/assets/47642e31-391b-49e2-a865-0d862e01bd7c" />
 
 
-<img width="1901" alt="image" src="https://github.com/user-attachments/assets/92801afe-772f-4a83-8ea4-faba86b0b37a" />
+<img width="1901" alt="image" src="https://github.com/user-attachments/assets/255283da-2513-4641-aa10-875e18895acd" />
+
 
 
 <img width="1352" alt="image" src="https://github.com/QuiqueCode/DALOPCAN-Public/assets/149546547/4edcb63f-63b5-4238-add4-19e9227d6f21">
