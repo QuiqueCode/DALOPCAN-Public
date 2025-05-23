@@ -18,7 +18,8 @@ El proyecto se encuentra en sus etapas finales de desarrollo. Por temas de segur
 
 ## Interfaz del expediente del paciente
 
-<img width="1913" alt="image" src="https://github.com/user-attachments/assets/47642e31-391b-49e2-a865-0d862e01bd7c" />
+<img width="1900" alt="image" src="https://github.com/user-attachments/assets/06cec687-9d84-4c3b-bea5-2966b36e2134" />
+
 
 
 <img width="1901" alt="image" src="https://github.com/user-attachments/assets/255283da-2513-4641-aa10-875e18895acd" />
