@@ -1,6 +1,7 @@
 # DALOPCAN
 
 DALOPCAN es un proyecto creado para ayudar a los encargados de la empresa DALOPCAN a poder realizar el registro de expedientes de sus pacientes de forma digital, con el fin de tener un acceso y un manejo de la información de una manera mucho más sencilla a la que mantienen actualmente, el cual era realizar todos sus registros de los pacientes de forma física. Este proyecto fue realizado como trabajo de TCU y en conjunto con mi compañero Diego Duarte, aquí está su perfil de GitHub: https://github.com/diegoTech14/.
+Actualmente eh realizado una actualicion completa por parte del Frontend para brindarle una mejor estetica a la atingua que el proyecto poseía.
 
 ## Aclaración
 
