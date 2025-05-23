@@ -13,7 +13,8 @@ El proyecto se encuentra en sus etapas finales de desarrollo. Por temas de segur
 
 ## Interfaz del Médico
 
-<img width="1916" alt="image" src="https://github.com/QuiqueCode/DALOPCAN-Public/assets/149546547/0ebd2c72-496a-4df5-9f13-135edcb67784">
+<img width="1912" alt="image" src="https://github.com/user-attachments/assets/2039a495-e00f-46c0-ba53-932a77247211" />
+
 
 ## Interfaz del expediente del paciente
 
