@@ -5,7 +5,7 @@ Actualmente eh realizado una actualización completa en el apartado del Frontend
 
 ## Aclaración
 
-El proyecto se encuentra en sus etapas finales de desarrollo. Por temas de seguridad, solo se mostrará mediante imágenes el sistema. Actualmente estamos negociando poder tener permiso para subir el código del frontend del sistema a este repositorio, el cual en un futuro será actualizado por lo menos con el código del frontend.
+Por razones de seguridad y confidencialidad, solo se mostrarán imágenes el sistema. 
 
 ## Interfaz de administración
 
